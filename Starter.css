@@ -1,0 +1,66 @@
+.title{
+    margin: 0 0 1px;
+    font-size: 24px;
+    font-weight: 200;
+    letter-spacing: 0.17px;
+    text-align: left;
+    color: #4d4f62;
+}
+.power{
+    margin: 1px 1px 0;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0.17px;
+    text-align: center;
+    color: #4d4f62;
+}
+.description{
+    margin: 16px 0 0;
+    opacity: 0.5;
+    font-size: 15px;
+    line-height: 1.67;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #4d4f62;
+  
+}
+.supervisor{
+    width: 311px;
+    height: 222px;
+    flex-grow: 0;
+    margin: 76px 0 25px;
+    padding: 0 0 28px;
+    border-radius: 8px;
+    box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.5);
+    background-color: #fff;
+}
+.supervisor h2{
+    width: 109px;
+    height: 30px;
+    margin: 23.4px 89px 1px 28px;
+    
+    font-size: 20px;
+    font-weight: 600;
+    
+    text-align: left;
+    color: #4d4f62;
+}
+.supervisor p {
+    width: 254px;
+    height: 46px;
+    margin: 1px 28px 33px 29px;
+    opacity: 0.5;
+    
+    font-size: 13px;
+    
+    line-height: 1.77;
+    letter-spacing: 0.09px;
+    text-align: left;
+    color: #4d4f62;
+  
+}
+.image {
+    display: flex;
+    justify-content: end;
+    margin-right: 30px;
+}
